@@ -85,7 +85,7 @@
 | zerosprey42 |[Github](https://github.com/beekeeb/zerosprey42)| &check; | &check; | &#10007; |  &#10007; | &#10007; | &#10007; | 42 | &#10007; | &#10007; |
 | bad-wings slim |[Github](https://github.com/hazels-garage/bad-wings/tree/master/slim)| &check; | &check; | &#10007; | &#10007; | &#10007; | &#10007; | 36 | &#10007; | &#10007; |
 | PicaChoc36 |[Github](https://github.com/zzeneg/picachoc36) | &check; | &check; | &#10007; | &check; | &#10007; | &#10007; | 36 | &#10007; | &check; |
-| Cheapino | [Github](https://github.com/tompi/cheapino) | &check; | &check; | &#10007; | &check; | &#10007; | &#10007 | 36 | &check; | &check; |
+| Cheapino | [Github](https://github.com/tompi/cheapino) | &check; | &check; | &#10007; | &check; | &#10007; | &#10007; | 36 | &#10007; | &check; |
 | toasterfuel's keyboard | [Github](https://github.com/ToasterFuel/Keyboard) | &check; | &#10007; | &check; | &#10007; | &#10007; | &check; | full size | &#10007; | &check; |
 | wren keyboard | [Github](https://github.com/walterhanley/wren-keyboard) | &check; | &check; | &#10007; | &check; | &#10007; | &check; | full size | &#10007; | &check; |
 | spleeb | [Github](https://github.com/chrishoage/spleeb) | &check; | &check; | &#10007; | &check; | &check; | &check; | 62 | &#10007; | &check; | &check; |
